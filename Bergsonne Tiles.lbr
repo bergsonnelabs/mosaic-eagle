@@ -717,8 +717,8 @@
 <connects>
 <connect gate="G$1" pin="A0" pad="P$2"/>
 <connect gate="G$1" pin="A12" pad="P$8"/>
-<connect gate="G$1" pin="A13" pad="P$12"/>
-<connect gate="G$1" pin="A14" pad="P$13"/>
+<connect gate="G$1" pin="A13" pad="P$13"/>
+<connect gate="G$1" pin="A14" pad="P$12"/>
 <connect gate="G$1" pin="A15" pad="P$10"/>
 <connect gate="G$1" pin="A5" pad="P$3"/>
 <connect gate="G$1" pin="A6" pad="P$4"/>
